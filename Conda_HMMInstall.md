@@ -60,6 +60,15 @@ We start it by installing dadi. If we look at the website for the dadi software 
 conda install -c conda-forge hmmlearn
 ```
 
+These will also probably be needed (there's a way to install all of these when you create your environment, but I'm adding as I go :) )
+
+```{bash, eval=F}
+conda install -c conda-forge pandas
+conda install -c conda-forge numpy
+conda install -c conda-forge seaborn
+conda install -c conda-forge matplotlib
+```
+
 It requires that we install multiple packages (dependencies), you just need to type 'y' and enter to proceed with the installation. 
 To check whether dadi was successfully installed, we can just call the software on terminal. Since it is a python module, than you should first call python:
 
