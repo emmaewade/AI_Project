@@ -75,6 +75,10 @@ To check whether dadi was successfully installed, we can just call the software 
 ```{bash, eval=F}
 python
 import hmmlearn
+import pandas
+import numpy
+import seaborn
+import matplotlib
 ```
 
 
