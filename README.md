@@ -1,4 +1,4 @@
-# AI_Project - edit name
+# COVID-19 Time Series Analysis
 
 *conda_installHMM.md* - conda install and environment tutorial
 
