@@ -6,6 +6,6 @@ Scripts used for Spring 2022 CSE 4633/6633 final project, *Forecasting the futur
 
 *conda_installHMM.md* - conda install and environment tutorial
 
-*hkw_hmm_script.ipyb* - covid-19 prediction using hidden markov model
+*hkw_hmm_code.ipynb* - covid-19 prediction using hidden markov model
 
 *ARIMA_model_covid.ipynb* - prediction using arima model
